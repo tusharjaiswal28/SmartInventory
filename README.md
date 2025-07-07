@@ -10,7 +10,7 @@ Frontend | Fullstack (Firebase Backend)
 
 ## Deployed App
 
-Frontend: 
+Frontend: classy-piroshki-675c9b.netlify.app
 Backend: Firebase Realtime Database
 
 ## Directory Structure
@@ -34,7 +34,7 @@ smartinventory-app/
 
 ## Video Walkthrough of the Project
 
-
+https://drive.google.com/file/d/15_TSRs4F9XXOLKUjb0AReFwWDPkcJsnc/view?usp=sharing
 
 ## Features
 
